@@ -1,0 +1,4 @@
+#Sun Dec 24 15:30:17 ICT 2017
+base.0=G\:\\Android\\KabarKomunitas\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
